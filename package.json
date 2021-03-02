@@ -1,0 +1,16 @@
+{
+  "name": "animebot",
+  "version": "1.0.0",
+  "description": "a discord bot for anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "HatemHashem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
